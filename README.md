@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# ESSE É APENAS UM PROJETO GERADO **TOTALMENTE** POR UMA IA PARA TREINAR O USO DE REACT QUERY
 
 ## Project info
 
